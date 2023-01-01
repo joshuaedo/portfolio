@@ -1,0 +1,5 @@
+body {
+  color: aliceblue;
+  background-image: url("/images/james.jpg");
+  background-size: contain;
+}
